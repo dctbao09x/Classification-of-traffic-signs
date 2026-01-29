@@ -168,6 +168,9 @@ Cho phép phát hiện + phân loại đồng thời với toạ độ chính x�
 - OpenCV  
 - scikit-learn  
 - scikit-image  
+### 6. Tài Nguyên
+Hoàn toàn có sẵn nguồn tài nguyên để thực hành!
+=> Vào Switch branches/tags chọn "master"
 
 
 ## Ghi chú
